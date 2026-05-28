@@ -36,5 +36,5 @@ These projects are directly relevant to Strategic Accounts pricing work in pharm
 ## Contact
 
 **Enrique Esquivel** | Pharmetric LLC
-enrique.esquivel@protonmail.com | Frisco, TX
+enrique@pharmetric.net | Frisco, TX
 [LinkedIn](https://www.linkedin.com/in/enrique-esquivel-3a3362bb)
